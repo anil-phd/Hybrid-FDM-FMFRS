@@ -4,7 +4,7 @@
 
 If you find this code useful in your research, please consider citing:
     
-    @ARTICLE{8957320,
+    @ARTICLE{3488074,
         author={Kumar, Anil and Prasad, P. S. V. S. Sai},
         journal={IEEE Transactions on Fuzzy Systems}, 
         title={Scalable Feature Subset Selection With Fuzzy Rough Sets and Fuzzy Min-Max Neural Network in Hybrid Decision System}, 
