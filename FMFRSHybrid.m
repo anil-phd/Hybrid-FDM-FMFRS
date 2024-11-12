@@ -1,4 +1,4 @@
-function [Reduct, SumHyp] = FMFRSHybrid2(DT, Theta, Gamma, c_inpu)
+function [Reduct, SumHyp] = FMFRSHybrid(DT, Theta, Gamma, c_inpu)
 %%c_inpu: number of categorical attributes in DT
 [dtx,dty] = size(DT);
 f_inpu = dty - 1;
